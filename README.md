@@ -1,2 +1,2 @@
-# PeopleCounter
+# People Counter
 People Counter app
